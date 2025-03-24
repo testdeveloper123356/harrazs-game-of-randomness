@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAwLwLAAAAAAC83QuwCwAAwN3dvdsLAAC83c3bVQsAANzd3FW1CwAA3N1cVVu7AADc3Vu1VbULANxdtR1dVQsA3FVV/1FVCwBcVUX7X1W7AFxVRVRVVVsLW1VFRF1VuwW7VUVEVLUAC7BdRcS/CwAAALu7BAAAAAAAAAALAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "playerduck"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAA5O7uDgAAAEBVVVXkDgAAVOTOzFXlAABE7szsaFYOAF5VVY52IuUAXlVUVXYiRg5OVVVUhXhWDuBVVFVVaGfkAF5VRUVlIuUATlVVVUUi5QDgVVRFVXblAABeVVVVZA4AAE5VVFVkDgAA4FVVVOQAAAAAXlVFDgAAAABARAQAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "tacotacodelicious"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
